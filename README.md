@@ -1,24 +1,34 @@
-# Hi, I'm Nurali 👋
+<div align="center">
+  <img src="assets/hero.svg" width="100%" alt="From signal to action: animated introduction to Nurali's projects" />
 
-I’m an IT student building practical tools for software reliability and service workflows. My projects span configuration checks, web applications, and voice-assisted interfaces.
+  # Hi, I'm Nurali 👋
 
-### Tech stack
+  **IT student · Building practical tools for clearer decisions and smoother workflows**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+  [![GitHub](https://img.shields.io/badge/GitHub-NuraliKuzhagaliev-18243B?style=flat-square&logo=github&logoColor=white)](https://github.com/NuraliKuzhagaliev)
+  [![Email](https://img.shields.io/badge/Email-Say%20hello-18243B?style=flat-square&logo=gmail&logoColor=white)](mailto:nurali6002217@gmail.com)
+</div>
 
-### Featured projects
+---
 
-**[DriftLens](https://github.com/NuraliKuzhagaliev/driftlens)** · Configuration release gate  
-Checks required environment variables across application source, `.env.example`, and Compose configuration. Includes a browser interface, a Node.js CLI with CI-friendly exit codes, tests, and a report of detected configuration drift. Its checks are static and do not validate runtime secrets or guarantee a successful deployment.
+### What I'm building
 
-**[SlotPilot](https://github.com/NuraliKuzhagaliev/slotpilot)** · Voice-assisted auto service administrator  
-A Next.js and TypeScript project for service selection, appointment proposals, confirmation, and booking with PostgreSQL/Supabase. It includes an English-language voice interface and an admin/demo view. The repository documents the current integration status and a preview mode that does not save bookings.
+I work on web applications, configuration checks, and voice-assisted interfaces. I care about useful workflows, clear feedback, and testing what a prototype actually does.
 
-### Connect
+| | Project | What you can explore |
+|:--:|:--|:--|
+| ◈ | **[DriftLens](https://github.com/NuraliKuzhagaliev/driftlens)** | A configuration release gate that checks required environment variables across application source, `.env.example`, and Compose configuration. Includes a browser UI, CLI, tests, and CI-friendly exit codes. |
+| ◉ | **[SlotPilot](https://github.com/NuraliKuzhagaliev/slotpilot)** | A voice-assisted administrator for a demo auto service, built with Next.js and TypeScript. Appointment workflows use PostgreSQL/Supabase; the project README explains its current integration status and preview mode. |
 
-[GitHub](https://github.com/NuraliKuzhagaliev) · [DriftLens](https://github.com/NuraliKuzhagaliev/driftlens) · [SlotPilot](https://github.com/NuraliKuzhagaliev/slotpilot)
+### Stack in these projects
+
+![TypeScript](https://img.shields.io/badge/TypeScript-202D44?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-202D44?style=flat-square&logo=javascript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-202D44?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-202D44?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-202D44?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-202D44?style=flat-square&logo=supabase&logoColor=white)
+
+<div align="center">
+  <sub>Observe the problem · Check the assumptions · Build the next step</sub>
+</div>
