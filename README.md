@@ -52,6 +52,18 @@ I work on web applications, configuration checks, and voice-assisted interfaces.
 
 ---
 
+### Contributions in motion
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NuraliKuzhagaliev/NuraliKuzhagaliev/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NuraliKuzhagaliev/NuraliKuzhagaliev/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/NuraliKuzhagaliev/NuraliKuzhagaliev/output/snake.svg" alt="Animated snake moving across Nurali's GitHub contributions" width="100%" />
+  </picture>
+</div>
+
+---
+
 <div align="center">
   <sub>Observe the problem · Check the assumptions · Build the next step</sub>
 </div>
