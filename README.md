@@ -58,8 +58,6 @@ I work on web applications, configuration checks, and voice-assisted interfaces.
   <img src="assets/arcade-snake.svg" alt="Animated snake eating 13 scattered squares, growing after every bite and restarting" width="100%" />
 </div>
 
-<sub>Decorative animation · [View the contribution-based version](https://raw.githubusercontent.com/NuraliKuzhagaliev/NuraliKuzhagaliev/output/snake.svg)</sub>
-
 ---
 
 <div align="center">
