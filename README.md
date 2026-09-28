@@ -55,7 +55,7 @@ I work on web applications, configuration checks, and voice-assisted interfaces.
 ### Arcade mode
 
 <div align="center">
-  <img src="assets/pacman.svg" alt="Autoplay Pac-Man chasing three fleeing ghosts, eating 13 pellets, and restarting" width="100%" />
+  <img src="assets/pacman.svg" alt="Fast looping Pac-Man maze with walls, three escaping ghosts, and 13 pellets" width="100%" />
 </div>
 
 ---
