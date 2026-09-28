@@ -55,7 +55,7 @@ I work on web applications, configuration checks, and voice-assisted interfaces.
 ### Arcade mode
 
 <div align="center">
-  <img src="assets/arcade-snake.svg" alt="Decorative long snake moving among scattered green squares" width="100%" />
+  <img src="assets/arcade-snake.svg" alt="Animated snake eating 13 scattered squares, growing after every bite and restarting" width="100%" />
 </div>
 
 <sub>Decorative animation · [View the contribution-based version](https://raw.githubusercontent.com/NuraliKuzhagaliev/NuraliKuzhagaliev/output/snake.svg)</sub>
