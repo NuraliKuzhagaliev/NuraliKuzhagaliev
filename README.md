@@ -55,7 +55,7 @@ I work on web applications, configuration checks, and voice-assisted interfaces.
 ### Arcade mode
 
 <div align="center">
-  <img src="assets/arcade-snake.svg" alt="Animated snake eating 13 scattered squares, growing after every bite and restarting" width="100%" />
+  <img src="assets/pacman.svg" alt="Autoplay Pac-Man eating 13 glowing pellets and starting a new round" width="100%" />
 </div>
 
 ---
