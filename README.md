@@ -19,6 +19,7 @@ I work on web applications, configuration checks, and voice-assisted interfaces.
 |:--:|:--|:--|
 | ◈ | **[DriftLens](https://github.com/NuraliKuzhagaliev/driftlens)** | A configuration release gate that checks required environment variables across application source, `.env.example`, and Compose configuration. Includes a browser UI, CLI, tests, and CI-friendly exit codes. |
 | ◉ | **[SlotPilot](https://github.com/NuraliKuzhagaliev/slotpilot)** | A voice-assisted administrator for a demo auto service, built with Next.js and TypeScript. Appointment workflows use PostgreSQL/Supabase; the project README explains its current integration status and preview mode. |
+| ◇ | **[SlotPilot-app](https://github.com/NuraliKuzhagaliev/SlotPilot-app)** | An Electron desktop client for SlotPilot. [Windows x64 release v0.3.2](https://github.com/NuraliKuzhagaliev/SlotPilot-app/releases/tag/v0.3.2) includes an installer and a portable executable. Builds are unsigned and require the online SlotPilot service. |
 
 ### Tools behind the projects
 
