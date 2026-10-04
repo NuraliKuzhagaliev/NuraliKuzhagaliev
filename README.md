@@ -104,8 +104,7 @@ Technologies I use across these projects.
 ---
 
 <div align="center">
-  <strong>Have a project or a technical question?</strong><br />
-  <a href="mailto:nurali6002217@gmail.com">nurali6002217@gmail.com</a>
+  
   <br /><br />
   <sub>Observe the problem · Check the assumptions · Build the next step</sub>
 </div>
