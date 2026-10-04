@@ -47,14 +47,14 @@ Four projects across developer tooling, voice interfaces, city simulation and se
 <h3><a href="https://github.com/NuraliKuzhagaliev/akim-ai-lodz">AKIM AI</a></h3>
 <p>A city-management simulator on synthetic Astana data. A deterministic engine calculates outcomes; AI explains the tradeoffs. Includes plan comparison, one-decision improvements and Markdown reports.</p>
 <p><code>Next.js</code> <code>Python</code> <code>FastAPI</code> <code>OpenAI</code></p>
-<p><a href="https://github.com/NuraliKuzhagaliev/akim-ai-lodz">Source &amp; setup ↗</a> &nbsp; · &nbsp; <a href="https://github.com/NuraliKuzhagaliev/akim-ai-lodz/actions">CI checks ↗</a></p>
+<p><a href="https://github.com/NuraliKuzhagaliev/akim-ai-lodz">Source &amp; setup ↗</a> &nbsp; · &nbsp; <a href="https://akim-ai-lodz.vercel.app/">Web app ↗</a> &nbsp; · &nbsp; <a href="https://github.com/NuraliKuzhagaliev/akim-ai-lodz/actions">CI checks ↗</a></p>
 </td>
 <td width="50%" valign="top">
 <sub><strong>04 / SECURITY EDUCATION</strong></sub>
 <h3><a href="https://github.com/NuraliKuzhagaliev/lord">LORD Security</a></h3>
 <p>A cybersecurity learning platform with a risk-scenario calculator, cryptography lab, mathematical tools and an optional AI assistant. Combines browser tools with a Flask account API.</p>
 <p><code>JavaScript</code> <code>Python</code> <code>Flask</code> <code>Web Crypto</code></p>
-<p><a href="https://github.com/NuraliKuzhagaliev/lord">Source &amp; setup ↗</a> &nbsp; · &nbsp; <a href="https://github.com/NuraliKuzhagaliev/lord#возможности">Explore features ↗</a></p>
+<p><a href="https://github.com/NuraliKuzhagaliev/lord">Source &amp; setup ↗</a> &nbsp; · &nbsp; <a href="https://lord-security-nurali.onrender.com">Web app ↗</a> &nbsp; · &nbsp; <a href="https://github.com/NuraliKuzhagaliev/lord#возможности">Explore features ↗</a></p>
 </td>
 </tr>
 </table>
